@@ -17,7 +17,7 @@ The user needs to input basic attributes like temperature, rainfall, location, a
 - *`Jupyter Notebook`*
 - *`Machine Learning`*
 ## Project Admins 
-[Lakshay Banga](https://github.com/lakshay2000)
+[Prachi Aggarwal](https://github.com/prachi-io)
 
 [Anmol Soin](https://github.com/MrNewDelhi)
 
